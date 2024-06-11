@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "name": "Reservia",
+        "shortFrDescription": "Réservation de voyage",
+        "shortEnDescription": "Travel Booking",
+        "shortEsDescription": "Reserva de viaje",
+        "longFrDescription": "Projet frontend et premier projet technique de la formation Développeur Web (OpenClassRooms), les langages utilisés sont HTML5 et CSS3. Mon environnement de travail était composé de Visual Studio Code (avec les extensions Live Server et Prettier) ainsi que GIT. Flexbox a été utilisé mais pas CSS GRID. Les résultats attendus (et obtenus) étaient la compatibilité pour Google Chrome et Mozilla Firefox, aucune erreur au validateur W3C et un site web responsive.",
+        "longEnDescription": "Frontend project and first technical project of the Web Developer diploma (OpenClassRooms), the languages used are HTML5 and CSS3. My working environment consisted of Visual Studio Code (with the Live Server and Prettier extensions) as well as GIT. Flexbox was used but not CSS GRID. The expected (and obtained) results were compatibility for Google Chrome and Mozilla Firefox, no W3C validator errors and a responsive website.",
+        "longEsDescription": "Proyecto frontend y primer proyecto técnico de la formación de Desarrollador Web (OpenClassRooms), los lenguajes utilizados son HTML5 y CSS3. Mi entorno de trabajo consistía en Visual Studio Code (con las extensiones Live Server y Prettier), así como GIT. Se utilizó Flexbox pero no CSS GRID. Los resultados esperados (y obtenidos) fueron compatibilidad para Google Chrome y Mozilla Firefox, sin errores del validador W3C y un sitio web responsivo.",
+        "technologie": [
+            "HTML-CSS"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/reservia.png",
+        "alt": "logo de Reservia",
+        "year": "2021",
+        "galeryImages": [
+            "reservia1.png",
+            "reservia2.png"
+        ],
+        "online": true,
+        "onlineLink": "https://euvertet.github.io/ThomasEuverte_2_14-03-2021/",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/ThomasEuverte_2_14-03-2021-main.zip",
+        "file": "https://euvertet.github.io/portfolio/data/reservia.pdf"
+    },
+    {
+        "id": 2,
+        "name": "Oh my Food",
+        "shortFrDescription": "Commandes de repas",
+        "shortEnDescription": "Meal orders",
+        "shortEsDescription": "Pedidos de comida",
+        "longFrDescription": "Projet frontend et deuxième projet technique de la formation Développeur Web, l'objectif était de dynamiser une page web avec des animations CSS. Un loading spinner, une animation sur les coeurs et sur l'apparition des menus devaient être faits. Mon environnement de travail était composé de Visual Studio Code (HTML5, CSS3, pas de Javascript) avec les plugins Prettier, Live Server et Vs Icon. J'ai également utilisé Node v14.17.4, Npm 6.14.14, Sass v1.37, Autoprefixer 10.3.2, Postcss-cli 8.3.1, Postcss 8.3.6 Les icônes viennent du site Fontawesome. Les résultats attendus (et obtenus) étaient la compatibilité pour Google Chrome et Mozilla Firefox, aucune erreur au validateur W3C et un site web responsive.",
+        "longEnDescription": "Frontend project and second technical project of the Web Developer diploma, the objective was to energize a web page with CSS animations. A loading spinner, an animation on the hearts and on the appearance of the menus had to be done. My working environment consisted of Visual Studio Code (HTML5, CSS3, no Javascript) with the Prettier, Live Server and Vs Icon plugins. I also used Node v14.17.4, Npm 6.14.14, Sass v1.37, Autoprefixer 10.3.2, Postcss-cli 8.3.1, Postcss 8.3.6 The icons come from the Fontawesome site. The expected (and obtained) results were compatibility for Google Chrome and Mozilla Firefox, no W3C validator errors and a responsive website.",
+        "longEsDescription": "Proyecto frontend y segundo proyecto técnico de la formación de Desarrollador Web, el objetivo fue dinamizar una página web con animaciones CSS. Hubo que hacer un spinner de carga, una animación en los corazones y en la apariencia de los menús. Mi entorno de trabajo consistía en Visual Studio Code (HTML5, CSS3, sin Javascript) con los complementos Prettier, Live Server y Vs Icon. También utilicé Node v14.17.4, Npm 6.14.14, Sass v1.37, Autoprefixer 10.3.2, Postcss-cli 8.3.1, Postcss 8.3.6. Los íconos provienen del sitio Fontawesome. Los resultados esperados (y obtenidos) fueron compatibilidad para Google Chrome y Mozilla Firefox, sin errores del validador W3C y un sitio web responsivo.",
+        "technologie": [
+            "HTML-CSS",
+            "Sass"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/ohmyfood.png",
+        "alt": "logo de Oh my Food",
+        "year": "2021",
+        "galeryImages": [
+            "ohmyfood1.png",
+            "ohmyfood2.png",
+            "ohmyfood3.png"
+        ],
+        "online": true,
+        "onlineLink": "https://euvertet.github.io/ThomasEuverte_3_03082021/",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/ThomasEuverte_3_03082021-main.zip",
+        "file": "https://euvertet.github.io/portfolio/data/ohmyfood.pdf"
+    },
+    {
+        "id": 3,
+        "name": "Kanap",
+        "shortFrDescription": "E-commerce",
+        "shortEnDescription": "E-commerce",
+        "shortEsDescription": "E-commerce",
+        "longFrDescription": "Projet frontend et troisième projet technique de la formation Développeur Web, un backend nous était fourni et il nous était demandé d'implémenter les fonctionnalités front-end avec Javascript (mais sans framework) de ce site de e-commerce. La page d'accueil affiche des produits récupérés depuis un fichier JSON. Nous pouvons consulter la page d'un produit en le sélectionnant et ainsi l'ajouter au panier en modifant également la quantité. Une fois la commande des différents produits faite, une page de confirmation s'affiche. Les fonctionnalités de gestion du LocalStorage et UrlSearchParam ont été utilisées.",
+        "longEnDescription": "Frontend project and third technical project of the Web Developer diploma, a backend was provided to us and we must implement the front-end functionalities with Javascript (but without framework) of this e-commerce site. The home page displays products retrieved from a JSON file. We can consult the page of a product by selecting it and thus add it to the basket by also modifying the quantity. Once the order for the various products has been made, a confirmation page is displayed. The LocalStorage and UrlSearchParam features were used.",
+        "longEsDescription": "Proyecto frontend y tercer proyecto técnico de la formación de Desarrollador Web, se nos proporcionó un backend y se nos pidió implementar las funcionalidades frontend con Javascript (pero sin framework) de este sitio de comercio electrónico. La página de inicio muestra productos recuperados de un archivo JSON. Podemos consultar la página de un producto seleccionándolo y así añadirlo a la cesta modificando también la cantidad. Una vez realizado el pedido de los distintos productos, se muestra una página de confirmación. Se utilizaron las funciones de gestión LocalStorage y UrlSearchParam.",
+        "technologie": [
+            "HTML-CSS",
+            "Javascript"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/kanap.png",
+        "alt": "logo de Kanap",
+        "year": "2021",
+        "galeryImages": [
+            "kanap1.png",
+            "kanap2.png",
+            "kanap3.png",
+            "kanap4.png",
+            "kanap5.png",
+            "kanap6.png",
+            "kanap7.png"
+        ],
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/ThomasEuverte_5_04102021-main.zip",
+        "file": "https://euvertet.github.io/portfolio/data/kanap.pdf"
+    },
+    {
+        "id": 4,
+        "name": "Piiquante v1",
+        "shortFrDescription": "Avis gastronomiques",
+        "shortEnDescription": "Gastronomic opinions",
+        "shortEsDescription": "Opiniones gastronómicas",
+        "longFrDescription": "Projet backend et cinquième projet technique de la formation Développeur Web, le projet consiste à développer le backend d'une application permettant d'ajouter des sauces culinaires afin de les partager avec d'autres utilisateurs. Le frontend est fourni et a été développé/compilé avec Angular. Il nous est demandé de créer une API en utilisant Node, Express et une base de données NoSQL permettant de stocker les utilisateurs et sauces créés. La création de cette API a permis de stocker des données de manière sécurisée, implémenter un modèle logique de données conformément à la réglementation et mettre en oeuvre des opérations CRUD de manière sécurisée. Jsonwebtoken, bcrypt et multer, entre autres, ont permis ces opérations.",
+        "longEnDescription": "Backend project and fifth technical project of the Web Developer diploma, the project consists of developing the backend of an application allowing you to add culinary sauces in order to share them with other users. The frontend is provided and was developed/compiled with Angular. We are asked to create an API using Node, Express and a NoSQL database to store the users and sauces created. The creation of this API made it possible to store data securely, implement a logical data model in accordance with regulations and implement CRUD operations safely. Jsonwebtoken, bcrypt and multer, among others, enabled these operations.",
+        "longEsDescription": "Proyecto backend y quinto proyecto técnico de la formación de Desarrollador Web, el proyecto consiste en desarrollar el backend de una aplicación que permite añadir salsas culinarias para poder compartirlas con otros usuarios. La interfaz se proporciona y fue desarrollada/compilada con Angular. Se nos pide crear una API usando Node, Express y una base de datos NoSQL para almacenar los usuarios y salsas creadas. La creación de esta API permitió almacenar datos de forma segura, implementar un modelo lógico de datos de acuerdo con la normativa e implementar operaciones CRUD de forma segura. Jsonwebtoken, bcrypt y multer, entre otros, permitieron estas operaciones.",
+        "technologie": [
+            "Node JS",
+            "Express",
+            "Mongo DB"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/piiquante.png",
+        "alt": "logo de Piiquante",
+        "year": "2021",
+        "galeryImages": [
+            "piiquante1.png",
+            "piiquante2.png",
+            "piiquante3.png",
+            "piiquante4.png",
+            "piiquante5.png",
+            "piiquante6.png",
+            "piiquante7.png"
+        ],
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/ThomasEuverte_6_22112021-main.zip",
+        "file": "https://euvertet.github.io/portfolio/data/piiquante.pdf"
+    },
+    {
+        "id": 5,
+        "name": "Groupomania v1",
+        "shortFrDescription": "Réseau social (Vue 2)",
+        "shortEnDescription": "Red Social (Vue 2)",
+        "shortEsDescription": "Red Social (Vue 2)",
+        "longFrDescription": "Projet FullStack et dernier projet de la formation Développeur Web, il consistait à construire un réseau social pour les employés de Groupomania afin de faciliter les interactions entre collègues. Cela fait appel au compétences suivantes: implémenter et gérer un stockage de données sécurisé en utilsant SQL, personnaliser le contenu envoyé à un client Web, authentifier un utilisateur et maintenir sa session. Cela passait donc par la création du frontend et du backend comprenant une API à l'aide d'un framework Javascript (obligatoire).",
+        "longEnDescription": "FullStack project and last project of the Web Developer diploma, it consisted of building a social network for Groupomania employees in order to facilitate interactions between colleagues. This requires the following skills: implement and manage secure data storage using SQL, personalize content sent to a web client, authenticate a user and maintain his session. This therefore involved the creation of the frontend and the backend including an API using a Javascript framework (mandatory).",
+        "longEsDescription": "Proyecto FullStack y último proyecto de la formación de Desarrollador Web, consistió en construir una red social para los empleados de Groupomania con el fin de facilitar las interacciones entre compañeros. Esto requiere las siguientes habilidades: implementar y administrar el almacenamiento seguro de datos utilizando SQL, personalizar el contenido enviado a un cliente web, autenticar a un usuario y mantener su sesión. Por lo tanto, esto implicó la creación del frontend y del backend, incluida una API utilizando un Javascript framework (obligatorio).",
+        "technologie": [
+            "Sass",
+            "Node JS",
+            "Express",
+            "MySql",
+            "Vue JS"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/groupomania.png",
+        "alt": "logo de Groupomania",
+        "year": "2022",
+        "galeryImages": [
+            "groupomaniaV1-1.png",
+            "groupomaniaV1-2.png",
+            "groupomaniaV1-3.png",
+            "groupomaniaV1-4.png",
+            "groupomaniaV1-5.png",
+            "groupomaniaV1-6.png",
+            "groupomaniaV1-7.png",
+            "groupomaniaV1-8.png",
+            "groupomaniaV1-9.png",
+            "groupomaniaV1-10.png",
+            "groupomaniaV1-11.png",
+            "groupomaniaV1-12.png",
+            "groupomaniaV1-13.png",
+            "groupomaniaV1-14.png"
+        ],
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/ThomasEuverte_7_20122021-main.zip",
+        "file": "https://euvertet.github.io/portfolio/data/groupomania.pdf"
+    },
+    {
+        "id": 6,
+        "name": "PORTFOLIO",
+        "shortFrDescription": "Projets réalisés, technologies et outils utilisées",
+        "shortEnDescription": "Projects done, technologies and tools used",
+        "shortEsDescription": "Proyectos realizados, tecnologías y herramentias utilizadas",
+        "longFrDescription": "Le portfolio est un élément essentiel dans la recherche d'emploi pour montrer de quoi tu es capable et les technologies utilisées. Hébérgé sur Github Pages, j'ai créé ce projet simplement avec HTML, CSS et Javascript, ne pouvant pas utiliser un backend sur cette page limitée. Voulant introduire un maximum d'intéractivité, la plupart des données ne sont pas écrites en HTML, mais récupérées depuis des fichiers JSON en fonction des actions de l'utilisateur. C'était une très bonne occasion pour perfectionner mes connaissances en Javascript, avant de me remettre à travailler sur les différents frameworks JS et trouver celui dans lequel je me spécialiserai.",
+        "longEnDescription": "The portfolio is an essential element in the job search to show what you are capable of and the technologies used. Hosted on Github Pages, I created this project simply with HTML, CSS and Javascript, not being able to use a backend on this limited page. Wanting to introduce maximum interactivity, most of the data is not written in HTML, but retrieved from JSON files based on user actions. It was a very good opportunity to perfect my knowledge of Javascript, before getting back to working on the different JS frameworks and finding the one in which I would specialize.",
+        "longEsDescription": "El portafolio es un elemento esencial en la búsqueda de empleo para mostrar de qué eres capaz y las tecnologías utilizadas. Alojado en Github Pages, creé este proyecto simplemente con HTML, CSS y Javascript, sin poder usar un backend en esta página limitada. Al querer introducir la máxima interactividad, la mayoría de los datos no se escriben en HTML, sino que se recuperan de archivos JSON en función de las acciones del usuario. Fue una muy buena oportunidad para perfeccionar mis conocimientos de Javascript, antes de volver a trabajar en los diferentes JS frameworks y encontrar aquel en el que me especializaría.",
+        "technologie": [
+            "HTML-CSS",
+            "Javascript"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/portfolio.png",
+        "alt": "logo année",
+        "year": "2024",
+        "galeryImages": [
+            "portfolio1.png",
+            "portfolio2.png",
+            "portfolio3.png",
+            "portfolio4.png",
+            "portfolio5.png",
+            "portfolio6.png",
+            "portfolio7.png",
+            "portfolio8.png",
+            "portfolio9.png"
+        ],
+        "online": true,
+        "onlineLink": "index.html",
+        "downloadProjectLink": "",
+        "file": ""
+    },
+    {
+        "id": 7,
+        "name": "Piiquante v2",
+        "shortFrDescription": "Avis gastronomiques",
+        "shortEnDescription": "Gastronomic opinions",
+        "shortEsDescription": "Opiniones gastronómicas",
+        "longFrDescription": "COMING SOON ...... 24/06/2024",
+        "longEnDescription": "COMING SOON ...... 24/06/2024",
+        "longEsDescription": "COMING SOON ...... 24/06/2024",
+        "technologie": [
+            "Node JS",
+            "Express",
+            "Mongo DB"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/piiquante.png",
+        "alt": "logo de Piiquante",
+        "year": "2024",
+        "deadline": "24/06/2024",
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "",
+        "file": ""
+    },
+    {
+        "id": 8,
+        "name": "Groupomania v2",
+        "shortFrDescription": "Réseau social (Vue 3)",
+        "shortEnDescription": "Red Social (Vue 3)",
+        "shortEsDescription": "Red Social (Vue 3)",
+        "longFrDescription": "COMING SOON ...... 15/07/2024",
+        "longEnDescription": "COMING SOON ...... 15/07/2024",
+        "longEsDescription": "COMING SOON ...... 15/07/2024",
+        "technologie": [
+            "Sass",
+            "Node JS",
+            "Express",
+            "MySql",
+            "Vue JS"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/groupomania.png",
+        "alt": "logo de Groupomania",
+        "year": "2024",
+        "deadline": "15/07/2024",
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "",
+        "file": ""
+    },
+    {
+        "id": 9,
+        "name": "Open your mind, discover the world",
+        "shortFrDescription": "Un site lié aux voyages",
+        "shortEnDescription": "A travel-related site",
+        "shortEsDescription": "Un sitio relacionado con viajes",
+        "longFrDescription": "COMING SOON ...... 05/08/2024",
+        "longEnDescription": "COMING SOON ...... 05/08/2024",
+        "longEsDescription": "COMING SOON ...... 05/08/2024",
+        "technologie": [
+            "Python",
+            "Django",
+            "React"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/plane.jpg",
+        "alt": "logo de Voyages",
+        "year": "2024",
+        "deadline": "05/08/2024",
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "",
+        "file": ""
+    },
+    {
+        "id": 10,
+        "name": "Have fun, play games",
+        "shortFrDescription": "Un site lié aux jeux",
+        "shortEnDescription": "A game-related site",
+        "shortEsDescription": "Un sitio relacionado con juegos",
+        "longFrDescription": "COMING SOON ...... 30/08/2024",
+        "longEnDescription": "COMING SOON ...... 30/08/2024",
+        "longEsDescription": "COMING SOON ...... 30/08/2024",
+        "technologie": [
+            "Java",
+            "Angular"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/gamepad.jpg",
+        "alt": "logo d'une manette",
+        "year": "2024",
+        "deadline": "30/08/2024",
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "",
+        "file": ""
+    },
+    {
+        "id": 11,
+        "name": "Everybody is a creator...",
+        "shortFrDescription": "Une application liée à la création musicale",
+        "shortEnDescription": "A music creation related application",
+        "shortEsDescription": "Un aplicacion relacionado con creacion musical",
+        "longFrDescription": "COMING ...... SUMMER 2025",
+        "longEnDescription": "COMING ...... SUMMER 2025",
+        "longEsDescription": "COMING ...... SUMMER 2025",
+        "technologie": [
+            "Kotlin"
+        ],
+        "image": "https://euvertet.github.io/portfolio/images/headphones.jpg",
+        "alt": "logo d'un casque",
+        "year": "2025",
+        "deadline": "SUMMER 2025",
+        "online": false,
+        "onlineLink": "none",
+        "downloadProjectLink": "",
+        "file": ""
+    }
+]

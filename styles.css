@@ -1,0 +1,708 @@
+body {
+    margin: 0;
+    font-size: 1.2rem;
+    font-family: "Raleway", Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/** HOME ATTRIBUTES **/
+
+.homeOverflow {
+    overflow: hidden;
+}
+
+.bigWordContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 1rem;
+}
+
+.bigWord1,
+.bigWord2,
+.bigWord3 {
+    font-size: 3rem;
+    margin: 1rem 1rem;
+}
+
+.fewWords {
+    font-size: 1.1rem;
+}
+
+/** HEADER ATTRIBUTES **/
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+
+.header a {
+    color: white;
+    margin: 0 1rem;
+    border-radius: 0.5rem 0.5rem 0 0;
+    padding: 0.5rem;
+}
+
+.header a:hover {
+    color: #0065fc;
+    box-shadow: 0.05rem 0.05rem 0.2rem rgb(100, 94, 94);
+}
+
+.navbar-header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.language-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.language-header button img {
+    height: 16px;
+    width: 20px;
+}
+
+.header button {
+    border-radius: 0.4rem;
+    padding: 0.6rem;
+    color: blanchedalmond;
+    background-color: black;
+    border: 1px;
+}
+
+.navbar-header button:hover {
+    background-color: grey;
+}
+
+/** SECTION ATTRIBUTES **/
+
+#sectionTitle {
+    border: 1px solid white;
+    margin: 1rem;
+    text-align: center;
+}
+
+/** BOTH CARD ATTRIBUTES **/
+
+.card {
+    background-color: rgb(247, 247, 247);
+    border-radius: 1rem;
+    color: black;
+    /* box-shadow: 0.4rem -0.5rem 1rem rgb(48, 46, 46); */
+    padding: 4px;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 200px;
+    height: 450px;
+    border: solid 2px rgb(43, 170, 43);
+}
+
+.card a {
+    color: black;
+}
+
+.card:hover {
+    box-shadow: 0.5rem -0.5rem 1rem rgb(100, 94, 94);
+}
+
+.filterLink {
+    margin: 0.3rem;
+    padding: 0.1rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.filterLink:hover {
+    color: #0065fc;
+}
+
+
+/** PROJECTS PAGE ATTRIBUTES **/
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/** SPECIFIC PROJECT CARD**/
+
+.deadline {
+    color: red;
+    text-decoration: solid;
+}
+
+.divImage {
+    width: 200px;
+    height: 80%;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.projects a .divImage img {
+    max-width: 40%;
+    max-height: 40%;
+}
+
+.projects a p {
+    margin: 0.3rem;
+    padding: 0.1rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.divTechnoLink {
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0.1rem;
+}
+
+.technoFilterLink {
+    padding: 0.1rem;
+    margin: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    box-shadow: 0.1rem 0.1rem 0.1rem black;
+}
+
+.technoFilterLink:hover {
+    color: #0065fc;
+    box-shadow: inset 0.1rem 0.1rem 0.1rem black;
+}
+
+.thumbnail {
+    height: 20px;
+    width: 30px;
+}
+
+/** TECH OR TOOL PAGE ATTRIBUTES **/
+.techOrToolSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/** SPECIFIC TECH OR TOOL CARD**/
+
+.divLogo {
+    width: 200px;
+    height: 80%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.techOrToolSection a .divLogo img {
+    max-width: 60%;
+    max-height: 60%;
+}
+
+.techOrToolSection a p {
+    margin: 0.3rem;
+    padding: 0.1rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.techOrToolName {
+    text-align: center;
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+.stars {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star {
+    height: 20px;
+    width: 20px;
+    margin: 0.1rem;
+}
+
+/** DISPLAY ONE TECHNO OR ONE PROJECT OR ONE TOOL PAGE ATTRIBUTES **/
+
+.nextPrevious {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 5rem;
+}
+
+.previousNavLink,
+.nextNavLink {
+    margin: 1rem;
+    font-weight: 900;
+}
+
+.previousNavLink:hover,
+.nextNavLink:hover {
+    transform: scale(1.2);
+    transition: transform 300ms ease-in-out;
+}
+
+.displayOne {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.displayOne h2 {
+    width: 50%;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid white;
+
+}
+
+.displayOne a {
+    text-align: center;
+}
+
+.displayOne p a:hover {
+    color: #0065fc;
+
+}
+
+.displayOneLogo {
+    height: 200px;
+    width: auto;
+    max-width: 50%;
+}
+
+.openOrDownloadBlock {
+    display: flex;
+    flex-direction: row;
+}
+
+.openOrDownloadLink {
+    border: 1px solid white;
+    border-radius: 1rem;
+    margin: 0 0.5rem;
+    padding: 1rem;
+    box-shadow: 0.1rem -0.3rem 0.7rem rgb(224, 224, 224);
+}
+
+.openOrDownloadLink:hover {
+    box-shadow: 0.5rem -0.5rem 1rem rgb(100, 94, 94);
+}
+
+.longDescription {
+    width: 50%;
+    text-align: justify;
+
+}
+
+.expandNotExpandButton {
+    margin: 0 1rem;
+    font-size: 2.5rem;
+    font-weight: 800;
+    background-color: black;
+    color: white;
+    border-width: 0;
+    transition: transform 300ms ease-in-out;
+    cursor: pointer;
+}
+
+.expandNotExpandButton:hover {
+    transform: scale(1.3);
+}
+
+.closeButtonContainer {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid white;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.galeryImageContainer {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+.galeryImage {
+    margin: 2rem;
+    border: 1px solid white;
+    width: 70%;
+}
+
+/** CONTACT AND ABOUT PAGE ATTRIBUTES **/
+
+#contact,
+#about {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact h1,
+#about h1 {
+    border: 1px solid white;
+    width: 70%;
+    padding: 1rem;
+}
+
+#contact h2,
+#about h2 {
+    border-bottom: 1px solid white;
+    width: 50%;
+}
+
+#contact p,
+#about p {
+    width: 50%;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+}
+
+/** FOOTER ATTRIBUTES **/
+.footer {
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-top: 1px solid white;
+    margin-top: 1rem;
+}
+
+#footer a,
+#footer div {
+    margin: 1rem;
+}
+
+.footer a:hover {
+    color: #0065fc;
+}
+
+.titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.titillium-web-regular {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titillium-web-semibold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.titillium-web-black {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.titillium-web-extralight-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.titillium-web-light-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.titillium-web-regular-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.titillium-web-semibold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.titillium-web-bold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* MODAL */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    color: black;
+    font-weight: bold;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modalLineOne {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.modalLineOne div {
+    align-self: center;
+}
+
+.modalLineTwo {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+@media (max-width: 505px) {
+
+    body {
+        font-size: 1rem;
+    }
+
+    #header {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #header a {
+        margin: unset;
+    }
+
+    #footer a,
+    #footer div {
+        margin: 0.5rem;
+    }
+
+    .displayOneLogo {
+        height: 50px;
+        max-width: 80%;
+    }
+
+    .longDescription {
+        width: 80%;
+    }
+
+    .divImage {
+        height: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .projects a .divImage img {
+        max-width: 90%;
+        max-height: 90%;
+    }
+
+    .card {
+        height: 270px;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+    }
+
+    .divLogo {
+        max-height: 110px;
+    }
+
+    .galeryImage {
+        width: 90%;
+        margin: 0.5rem;
+    }
+
+}
+
+@media (min-width: 1300px) {
+
+    .bigWord1,
+    .bigWord2,
+    .bigWord3 {
+        font-size: 8rem;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    #contact h1,
+    #about h1 {
+        border: 1px solid white;
+        width: 80%;
+    }
+
+    #contact h2,
+    #about h2 {
+        border-bottom: 1px solid white;
+        width: 70%;
+    }
+
+    #contact p,
+    #about p {
+        width: 70%;
+        text-align: justify;
+        display: flex;
+        justify-content: center;
+    }
+
+    .bigWord1 {
+        animation: comingFromBottom 4s;
+    }
+
+    .bigWord2 {
+        animation: comingFromBottom 3s;
+    }
+
+    .bigWord3 {
+        animation: comingFromBottom 2s;
+    }
+
+    .footer {
+        animation: comingFromBottom 1s;
+    }
+
+    .header {
+        animation: comingFromBottom 4.5s;
+    }
+}
+
+
+@media (min-width: 1001px) {
+
+    /* ANIMATION PAGE D'ACCUEIL*/
+    .bigWord1 {
+        animation: comingFromRight 4s;
+    }
+
+    .bigWord2 {
+        animation: comingFromRight 3s;
+    }
+
+    .bigWord3 {
+        animation: comingFromRight 2s;
+    }
+
+}
+
+@keyframes comingFromBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(400px);
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1)
+    }
+}
+
+@keyframes comingFromRight {
+    0% {
+        opacity: 0;
+        transform: translate(400px);
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1)
+    }
+}

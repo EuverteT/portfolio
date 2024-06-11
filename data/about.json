@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "french",
+        "whoTitle": "Qui suis-je?",
+        "who": "Passionné par les nouvelles technologies, j'ai entamé une reconversion dans le développement en 2021 avec un diplôme de Développeur Web obtenu en janvier 2022. Je travaille dans l'informatique depuis 2010 après l'obtention, cette même année, d'un diplôme de Technicien Réseaux et Télécommunications d'Entreprise. J'ai pu acquérir des compétences et connaissances en pratiquant des postes de technicien de proximité, technicien helpdesk, rédacteur technique aux ressoures humaines, technicien N1 et N2 sur des projets très variés. Le frontend et le backend m'intéressent tous les deux et j'ai hâte de travailler sur des projets ambitieux avec une équipe de passionnés.",
+        "livingTitle": "Résidence",
+        "mobilityTitle": "Mobilité"
+    },
+    {
+        "id": 2,
+        "name": "english",
+        "whoTitle": "Who Am I?",
+        "who": "Passionate about new technologies, I began a career change in development in 2021 with a Web Developer diploma obtained in January 2022. I have worked in IT since 2010 after obtaining, that same year, a Network and Business Telecommunications Technician diploma. I acquired skills and knowledge by practicing positions as a local technician, helpdesk technician, human resources technical writer, L1 and L2 technician on very varied projects. Both frontend and backend interest me and I look forward to working on ambitious projects with a team of enthusiasts.",
+        "livingTitle": "Residence",
+        "mobilityTitle": "Mobility"
+    },
+    {
+        "id": 3,
+        "name": "spanish",
+        "whoTitle": "Quién soy?",
+        "who": "Apasionado por las nuevas tecnologías, comencé un cambio de carrera en desarrollo en 2021 con el diploma de Desarrollador Web obtenido en enero de 2022. Trabajo en TI desde 2010 luego de obtener,  ese mismo año, el diploma de Técnico en Redes y Telecomunicaciones Empresariales. Pude adquirir habilidades y conocimientos ejerciendo puestos como técnico local, técnico de mesa de ayuda, redactor técnico de recursos humanos, técnico L1 y L2 en proyectos muy variados. Tanto el frontend como el backend me interesan y espero trabajar en proyectos ambiciosos con un equipo de entusiastas.",
+        "livingTitle": "Residencia",
+        "mobilityTitle": "Movilidad"
+    }
+]
