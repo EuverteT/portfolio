@@ -178,8 +178,8 @@
             "portfolio9.png"
         ],
         "online": true,
-        "onlineLink": "index.html",
-        "downloadProjectLink": "",
+        "onlineLink": "https://euvertet.github.io/portfolio/index.html",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/portfolio.zip",
         "file": ""
     },
     {
