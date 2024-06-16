@@ -188,9 +188,9 @@
         "shortFrDescription": "Avis gastronomiques",
         "shortEnDescription": "Gastronomic opinions",
         "shortEsDescription": "Opiniones gastronómicas",
-        "longFrDescription": "COMING SOON ...... 24/06/2024",
-        "longEnDescription": "COMING SOON ...... 24/06/2024",
-        "longEsDescription": "COMING SOON ...... 24/06/2024",
+        "longFrDescription": "Projet backend et cinquième projet technique de la formation Développeur Web, le projet consiste à développer le backend d'une application permettant d'ajouter des sauces culinaires afin de les partager avec d'autres utilisateurs. Le frontend est fourni et a été développé/compilé avec Angular. Il nous est demandé de créer une API en utilisant Node, Express et une base de données NoSQL permettant de stocker les utilisateurs et sauces créés. La création de cette API a permis de stocker des données de manière sécurisée, implémenter un modèle logique de données conformément à la réglementation et mettre en oeuvre des opérations CRUD de manière sécurisée. Jsonwebtoken, bcrypt et multer, entre autres, ont permis ces opérations.",
+        "longEnDescription": "Backend project and fifth technical project of the Web Developer diploma, the project consists of developing the backend of an application allowing you to add culinary sauces in order to share them with other users. The frontend is provided and was developed/compiled with Angular. We are asked to create an API using Node, Express and a NoSQL database to store the users and sauces created. The creation of this API made it possible to store data securely, implement a logical data model in accordance with regulations and implement CRUD operations safely. Jsonwebtoken, bcrypt and multer, among others, enabled these operations.",
+        "longEsDescription": "Proyecto backend y quinto proyecto técnico de la formación de Desarrollador Web, el proyecto consiste en desarrollar el backend de una aplicación que permite añadir salsas culinarias para poder compartirlas con otros usuarios. La interfaz se proporciona y fue desarrollada/compilada con Angular. Se nos pide crear una API usando Node, Express y una base de datos NoSQL para almacenar los usuarios y salsas creadas. La creación de esta API permitió almacenar datos de forma segura, implementar un modelo lógico de datos de acuerdo con la normativa e implementar operaciones CRUD de forma segura. Jsonwebtoken, bcrypt y multer, entre otros, permitieron estas operaciones.",
         "technologie": [
             "Node JS",
             "Express",
@@ -199,10 +199,17 @@
         "image": "https://euvertet.github.io/portfolio/images/piiquante.png",
         "alt": "logo de Piiquante",
         "year": "2024",
-        "deadline": "24/06/2024",
+        "galeryImages": [
+            "piiquanteV2-1.png",
+            "piiquanteV2-2.png",
+            "piiquanteV2-3.png",
+            "piiquanteV2-4.png",
+            "piiquanteV2-5.png",
+            "piiquanteV2-6.png"
+        ],
         "online": false,
         "onlineLink": "none",
-        "downloadProjectLink": "",
+        "downloadProjectLink": "https://euvertet.github.io/portfolio/data/piiquante-V2.zip",
         "file": ""
     },
     {
