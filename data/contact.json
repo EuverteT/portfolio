@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "french",
+        "Title": "Me contacter",
+        "mailTitle": "Par email",
+        "linkedinTitle": "Par Linkedin"
+    },
+    {
+        "id": 2,
+        "name": "english",
+        "Title": "Contact me",
+        "mailTitle": "By email",
+        "linkedinTitle": "By Linkedin"
+    },
+    {
+        "id": 3,
+        "name": "spanish",
+        "Title": "Contácteme",
+        "mailTitle": "Por email",
+        "linkedinTitle": "Por Linkedin"
+    }
+]
