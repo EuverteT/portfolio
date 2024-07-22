@@ -213,8 +213,8 @@
         "longEnDescription": "This project consists of the development of the frontend of a real estate rental site. The data is not retrieved from a backend like in a real web application but from a JSON file. You will notice some slowness when first loading images because they are not local and come from a royalty-free image site. I tried to use as many reusable components and mixins for clarity.",
         "longEsDescription": "Este proyecto consiste en el desarrollo del frontend de un sitio de alquiler de bienes raíces. Los datos no se recuperan de un backend como en una aplicación web real, sino de un archivo JSON. Notarás cierta lentitud al cargar las imágenes por primera vez porque no son locales y provienen de un sitio de imágenes libre de derechos. Intenté utilizar tantos componentes y mixins reutilizables para mayor claridad.",
         "technologie": [
-            "Sass",
-            "Vue JS"
+            "Vue JS",
+            "Sass"
         ],
         "image": "https://euvertet.github.io/portfolio/images/kasa.png",
         "alt": "logo de Kasa",
@@ -240,7 +240,8 @@
         "longEnDescription": "COMING SOON ...... 31/07/2024",
         "longEsDescription": "COMING SOON ...... 31/07/2024",
         "technologie": [
-            "Angular"
+            "Angular",
+            "Sass"
         ],
         "image": "https://euvertet.github.io/portfolio/images/kasa.png",
         "alt": "logo de Kasa",
