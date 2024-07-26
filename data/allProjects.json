@@ -236,9 +236,9 @@
         "shortFrDescription": "Application de location immobilière",
         "shortEnDescription": "Real estate rental application",
         "shortEsDescription": "Aplicacion de alquiler de inmuebles",
-        "longFrDescription": "COMING SOON ...... 31/07/2024",
-        "longEnDescription": "COMING SOON ...... 31/07/2024",
-        "longEsDescription": "COMING SOON ...... 31/07/2024",
+        "longFrDescription": "Ce projet consiste au développement du frontend d'un site de location immobilière. Les données ne sont pas récupérées depuis un backend comme sur une application web réelle mais depuis un fichier JSON. Vous constaterez certaines lenteurs aux premiers chargements des images car celles-ci ne sont pas en local et proviennent d'un site d'images libres de droits. J'ai essayé d'utiliser le plus de composants réutilisables et mixins pour plus de clarté.",
+        "longEnDescription": "This project consists of the development of the frontend of a real estate rental site. The data is not retrieved from a backend like in a real web application but from a JSON file. You will notice some slowness when first loading images because they are not local and come from a royalty-free image site. I tried to use as many reusable components and mixins for clarity.",
+        "longEsDescription": "Este proyecto consiste en el desarrollo del frontend de un sitio de alquiler de bienes raíces. Los datos no se recuperan de un backend como en una aplicación web real, sino de un archivo JSON. Notarás cierta lentitud al cargar las imágenes por primera vez porque no son locales y provienen de un sitio de imágenes libre de derechos. Intenté utilizar tantos componentes y mixins reutilizables para mayor claridad.",
         "technologie": [
             "Angular",
             "Sass"
@@ -246,7 +246,13 @@
         "image": "https://euvertet.github.io/portfolio/images/kasa.png",
         "alt": "logo de Kasa",
         "year": "2024",
-        "deadline": "31/07/2024",
+        "galeryImages": [
+            "kasa-vue-1.png",
+            "kasa-vue-2.png",
+            "kasa-vue-3.png",
+            "kasa-vue-4.png",
+            "kasa-vue-5.png"
+        ],
         "online": false,
         "onlineLink": "none",
         "file": ""
