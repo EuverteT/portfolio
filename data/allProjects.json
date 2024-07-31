@@ -247,11 +247,13 @@
         "alt": "logo de Kasa",
         "year": "2024",
         "galeryImages": [
-            "kasa-vue-1.png",
-            "kasa-vue-2.png",
-            "kasa-vue-3.png",
-            "kasa-vue-4.png",
-            "kasa-vue-5.png"
+            "kasa-angular-1.png",
+            "kasa-angular-2.png",
+            "kasa-angular-3.png",
+            "kasa-angular-4.png",
+            "kasa-angular-5.png",
+            "kasa-angular-6.png"
+
         ],
         "online": false,
         "onlineLink": "none",
